@@ -1,2 +1,2 @@
 # SummerCodingChallenge
-A coding challenge a day 5 days a week all summer long. The purpose of this project is to sharpen and maintain my ability to solve problems by utilizing various data structures and critical thinking.
+A coding challenge a day 5 days a week all summer long. The purpose of this project is to sharpen and maintain my ability to solve problems by utilizing various data structures and critical thinking. These challenges consist of problems entirely from Leetcode.com. The struture of a week is two easy problems followed by two medium problems and then one hard problem at the end.
