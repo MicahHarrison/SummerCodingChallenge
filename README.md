@@ -13,3 +13,4 @@ Day5(5-18-18) - All Paths From Source to Target: https://leetcode.com/problems/a
 
 Day6(5-21-18) - Binary Tree Zigzag Level Order Traversal: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
 
+Day7(5-22-18)- Find Pivot Index: https://leetcode.com/problems/find-pivot-index/description/
