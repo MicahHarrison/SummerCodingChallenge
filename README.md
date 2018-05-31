@@ -11,5 +11,5 @@ Day4(5-17-18) - Champagne Tower: https://leetcode.com/problems/champagne-tower/d
 
 Day5(5-18-18) - All Paths From Source to Target: https://leetcode.com/problems/all-paths-from-source-to-target/description/
 
-Day6(5-19-18) - Binary Tree Zigzag Level Order Traversal: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
+Day6(5-21-18) - Binary Tree Zigzag Level Order Traversal: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
 
