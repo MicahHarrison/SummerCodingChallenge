@@ -34,7 +34,7 @@ public class Longest_Absolute_File_Path {
     Time complexity required: O(n) where n is the size of the input string.
 
     Notice that a/aa/aaa/file1.txt is not the longest file path, if there is another path aaaaaaaaaaaaaaaaaaaaa/sth.png.*/
-    
+
     public int lengthLongestPath(String input) {
         String[] paths = input.split("\n");
         int[] stack = new int[paths.length+1];
