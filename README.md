@@ -27,8 +27,6 @@ Two Sum IV - Input is a BST: https://leetcode.com/problems/two-sum-iv-input-is-a
 
 Find the Duplicate Number: https://leetcode.com/problems/find-the-duplicate-number/description/
 
---------------------------------------------------------------------------------------------------------------
-
 Keys and Rooms: https://leetcode.com/problems/keys-and-rooms/description/
 
 Longest Substring with At Least K Repeating Characters: https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/
@@ -38,6 +36,8 @@ Number of Digit One: https://leetcode.com/problems/number-of-digit-one/descripti
 Remove K Digits: https://leetcode.com/problems/remove-k-digits/description/
 
 Daily Temperatures: https://leetcode.com/problems/daily-temperatures/description/
+
+--------------------------------------------------------------------------------------------------------------
 
 Rank Scores: https://leetcode.com/problems/rank-scores/description/
 
