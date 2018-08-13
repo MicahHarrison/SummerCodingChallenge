@@ -37,27 +37,7 @@ Remove K Digits: https://leetcode.com/problems/remove-k-digits/description/
 
 Daily Temperatures: https://leetcode.com/problems/daily-temperatures/description/
 
---------------------------------------------------------------------------------------------------------------
 
-Rank Scores: https://leetcode.com/problems/rank-scores/description/
-
-Longest Mountain in Array: https://leetcode.com/problems/longest-mountain-in-array/description/
-
-Summary Ranges: https://leetcode.com/problems/summary-ranges/description/
-
-Target Sum: https://leetcode.com/problems/target-sum/description/
-
-Redundant Connection II: https://leetcode.com/problems/redundant-connection-ii/description/
-
-Reverse Linked List: https://leetcode.com/problems/reverse-linked-list/description/
-
-H-Index II: https://leetcode.com/problems/h-index-ii/description/
-
-Remove Comments: https://leetcode.com/problems/remove-comments/description/
-
-Shifting Letters: https://leetcode.com/problems/shifting-letters/description/
-
-Super Washing Machines: https://leetcode.com/problems/super-washing-machines/description/
 
 
 
